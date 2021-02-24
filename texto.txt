@@ -1,0 +1,6 @@
+Exemplo de uso do openssl e sha1 encriptografia (openssl sha1 texto.txt)
+primeiro hash:
+SHA1(texto.txt)= acda3d2376603e80ee571c10ee9c5693e024a00e
+segundo hash:
+SHA1(texto.txt)= 2057ba320ad3a76eb6fc3efcde38e4ca3cea5c34
+
